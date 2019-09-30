@@ -2,6 +2,8 @@
 StormVPN 是基于socket5（ss)，https协议 覆盖各地终端的 加密通信 手段
 官方网站：http://www.stormvpn.xyz
 #Chrome 浏览器（基于chrome内核的浏览器均可用）
+chromeStore 地址：https://chrome.google.com/webstore/detail/stormvpn/gdgekinnjookhmchkemmnejcnfcaehhc?hl=zh-CN&authuser=1
+自定义安装
 下载地址：http://www.stormvpn.xyz/download/StormVPNChrome.zip
 安装使用教程：http://www.stormvpn.xyz/how/how.html
 
